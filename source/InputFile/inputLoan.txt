@@ -1,0 +1,63 @@
+Lend
+Tai Ngu
+500
+0
+20/11/2024
+25/11/2024
+5
+MONTHS
+PAID_OFF
+Muon tien di an
+Dang Ngoc Tai  23/11/2024 200000 3e+06 Thanh toan tu nguoi vay
+Dang Ngoc Tai  25/11/2024 300000 0 Thanh toan tu nguoi vay
+Lend
+Ha Milo
+60000
+60000
+12/12/2024
+13/12/2024
+4
+MONTHS
+PENDING
+keke
+Borrow
+a Milo
+1000
+1000
+20/11/2024
+25/11/2024
+10
+MONTHS
+PENDING
+Muon tien di choi hehe
+Borrow
+Le Minh HoHo
+40000
+40000
+12/12/2024
+20/12/2024
+5
+MONTHS
+PENDING
+hehe
+Borrow
+ronaldo
+100000
+100001
+04/12/2024
+04/03/2025
+50
+MONTHS
+PENDING
+muon tien di da banh
+ronaldo  05/12/2024 50000 100001 Thanh toan tu nguoi cho vay
+Borrow
+ha miloolo
+100000
+150000
+04/12/2024
+04/01/2025
+50
+MONTHS
+PENDING
+keke
